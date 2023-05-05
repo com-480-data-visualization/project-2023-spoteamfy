@@ -6,7 +6,7 @@
 
 ## Milestone 2 (7th May, 5pm)
 
-🎶 Please follow this link to visit our website: [https://heartfelt-sprite-c0f3d8.netlify.app/](Melodic Moods)
+🎶 Please follow this link to visit our website: [Melodic Moods](https://heartfelt-sprite-c0f3d8.netlify.app/)
 😁 Enjoy ! And don't hesitate to have some fun with the playlists we've made for you !
 
 ## Milestone 3 (4th June, 5pm)
