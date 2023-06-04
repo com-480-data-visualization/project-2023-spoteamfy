@@ -62,7 +62,7 @@ In this section, we describe the relevant folders and files for our project.
 
 <br>
 
-**📙 Milestone3 - SpoTeamFy.pdf** :
+**📙 report.pdf** :
 
 &emsp;Report of our project.
   
