@@ -17,7 +17,7 @@ Here are the important links of our project.
 
 📖 Our report : https://www.canva.com/design/DAFjjyN3_2U/UUwU4SJuUl4FYV6mPebDzA/view?utm_content=DAFjjyN3_2U&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel
 
-📹 Our video : You can find it on the drive. 
+📹 Our video : https://app.colossyan.com/share-draft/a6da89b4-c624-4ca6-9535-b3c9c20e4649
 
 ## Description of our github repository
 
