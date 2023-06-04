@@ -1,0 +1,8 @@
+{"danceability" : "Danceability describes how suitable a track is for dancing based on a combination of musical elements including tempo, rhythm stability, beat strength, and overall regularity. ",
+"energy" : "Energy represents a perceptual measure of intensity and activity. Typically, energetic tracks feel fast, loud, and noisy. For example, death metal has high energy, while a Bach prelude scores low on the scale.",
+"instrumentalness" : "Instrumentalness predicts whether a track contains no vocals. Values above 50% are intended to represent instrumental tracks, but confidence is higher as the value approaches 100%.",
+"acousticness" : "Acousticness measures how a song sounds acoustic or natural, as opposed to electronic or synthesized. Higher values suggest a more organic sound, while lower values indicate a more digitally produced one.",
+"valence" : "Valence describes the musical positiveness conveyed by a track. Tracks with high valence sound more positive (e.g. happy, cheerful, euphoric), while tracks with low valence sound more negative (e.g. sad, depressed, angry).",
+"arousal" : "Arousal refers to the level of physiological and psychological stimulation that a listener experiences while listening to music. It is often associated with the emotional intensity that a piece of music generates.",
+"dominance" : "Dominance refers to the sense of power conveyed by the music. In general, music that is perceived as more dominant tends to be more stimulating and exciting, while music that is less dominant may be more relaxing or soothing."
+} 
